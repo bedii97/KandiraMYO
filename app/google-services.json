@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "78574340434",
+    "firebase_url": "https://kandiramyoapp.firebaseio.com",
+    "project_id": "kandiramyoapp",
+    "storage_bucket": "kandiramyoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78574340434:android:eabf5053d2c34e2f",
+        "android_client_info": {
+          "package_name": "com.onurturali.kandiramyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78574340434-tdtugnqv5bfj4ksl6rpte38ft0tmml4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnUcPd1xHYsE9f4UFz6oAEwOz5nrppphY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
